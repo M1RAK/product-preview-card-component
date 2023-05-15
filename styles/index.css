@@ -23,7 +23,7 @@ body {
 }
 
 main {
-  width: 95vw;
+  width: 90vw;
   height: auto;
   background-color: var(--White);
   margin: 2rem 1rem;
@@ -89,7 +89,7 @@ main .product-container .cart-button:active {
 
 .attribution {
   color: var(--Dark-grayish-blue);
-  font-size: var(--fs-body);
+  font-size: 12px;
 }
 .attribution a {
   text-decoration: none;
@@ -98,7 +98,7 @@ main .product-container .cart-button:active {
 
 @media (min-width: 600px) {
   main {
-    max-width: 650px;
+    max-width: 600px;
     display: grid;
     gap: 1rem;
     grid-template-columns: 1fr 1fr;
