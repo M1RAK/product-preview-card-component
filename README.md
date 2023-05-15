@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/M1RAK/product-preview-card-component)
+- Live Site URL: [Add live site URL here](https://product-card-component-preview.netlify.app)
 
 ## My process
 
@@ -64,7 +64,7 @@ Using this little snippet from Kevin Powell saved me from writing js code or usi
 Build More seemingly simple, pull you into an abyss of your own ignorance Projects.
 
 ### Useful resources
-- [Example resource 2](https://www.example.com) - This is an amazing video which helped me with switching the images using the Picture attribute. 
+- [Kevin Powell](https://youtu.be/B2WL6KkqhLQ) - This is an amazing video which helped me with switching the images using the Picture attribute. 
 
 ## Author
 
