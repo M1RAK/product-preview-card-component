@@ -120,7 +120,7 @@ main .product-container .cart-button:active {
     letter-spacing: 0.3rem;
   }
   main .product-container .product-desc {
-    line-height: 1.2rem;
+    line-height: 1.25rem;
     letter-spacing: 0.5px;
   }
   main .product-container .product-price-meta {
